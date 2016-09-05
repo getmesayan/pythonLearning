@@ -4,3 +4,5 @@ This is an effort to learn Python along with data science tools like panda etc.a
 
 The Panda package would contain an attempt to work out example for concepts in
 http://pandas.pydata.org/pandas-docs/stable/
+
+One can read and see the various usefulness of panda
